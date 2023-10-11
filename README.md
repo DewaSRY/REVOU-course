@@ -1,9 +1,5 @@
 ---
 title:introduce
-output: 
-  html_document:
-     css: ./assets/img/test.css
-     self_contained: no
 ---
 
 # REVOU-course
