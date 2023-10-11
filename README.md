@@ -12,8 +12,7 @@ output:
 
 ### About Me : REVOU SOFTWARE ENGINEERING - SOUL - STUDENT
 
-<style>
-
+<style type="text/css" rel="stylesheet">
   *{
   font-family: sans-serif;
 }
