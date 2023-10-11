@@ -19,6 +19,8 @@ title:introduce
 <h2 > " Brief About Me: Dewa 😎 </h2>
 <p align="center">
   <img width="300" hight="300"  src="./assets/img/Dewa-img-1.png" alt="hh">
+</p>
+
     <table class='table-introduce'>
     <tr>
       <th>Name</th>
@@ -44,14 +46,8 @@ title:introduce
       <td>occupation</td>
       <td> Freelancer Frontend engineer </td>
     </tr>
-  </table>
-</p>
-<div style="" class='mine-container'>
-<div class="img-box">
 
-</div>
-  <div class="intro-box">
-  <div>
+  </table>
      <h2 > " QURAN, About : 'Make friends with others' </h2>
       <h3 style="font-size: 18px;  line-height: 21px;  font-weight: 300;">
       يٰٓأَيُّهَا النَّاسُ إِنَّا خَلَقْنٰكُمْ مِّنْ ذَكَرٍ وَأُنْثٰى وَجَعَلْنٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا   ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقٰىكُمْ   ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
@@ -59,9 +55,7 @@ title:introduce
       <h4>
       "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sungguh, yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Sungguh, Allah Maha Mengetahui, Maha Teliti." (QS. Al-Hujurat: Ayat 13)
       </h4>
-  </div>
-  <div class="resume-me">
-  <h3 style="font-size: 18px;line-height: 21px;font-weight: 300;">
+        <h3 style="font-size: 18px;line-height: 21px;font-weight: 300;">
      <p  style="font-size: 30px;font-weight: 300;color: #e5e50b;text-shadow: solid 1px #e5e50b;">
       Hallo .
      <p>
@@ -71,6 +65,7 @@ title:introduce
      </span>
       to gain my knowledge.
   </h3>
-</div>
-  </div>
-</div>
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
