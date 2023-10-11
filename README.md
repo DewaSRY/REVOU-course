@@ -13,11 +13,6 @@ title:introduce
   font-family: sans-serif;
 }
 h3{
-  font-size: 18px;
-  line-height: 21px;
-  font-weight: 300;
-}
-h3{
   font-size: 15px;
   line-height: 18px;
   font-weight: 300;
@@ -71,17 +66,10 @@ h3{
   border:solid 1px  rgb(255, 255, 255);
 }
 .span-hi{
-  font-size: 30px;
-  font-weight: 300;
-  color: #e5e50b;
-  text-shadow: solid 1px #e5e50b;
-}
-.revou {
-  display: inline;
-  color: #cee427;
+
 }
 </style>
-<div class='mine-container'>
+<div style="" class='mine-container'>
 <div class="img-box">
 <h2 > " Brief About Me: Dewa 😎 </h2>
   <img class="my-img" src="./assets/img/Dewa-img-1.png" alt="hh">
@@ -115,7 +103,7 @@ h3{
   <div class="intro-box">
   <div>
      <h2 > " QURAN, About : 'Make friends with others' </h2>
-      <h3>
+      <h3 style="font-size: 18px;  line-height: 21px;  font-weight: 300;">
       يٰٓأَيُّهَا النَّاسُ إِنَّا خَلَقْنٰكُمْ مِّنْ ذَكَرٍ وَأُنْثٰى وَجَعَلْنٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا   ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقٰىكُمْ   ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
       </h3>
       <h4>
@@ -123,12 +111,12 @@ h3{
       </h4>
   </div>
   <div class="resume-me">
-  <h3>
-     <p class="span-hi">
+  <h3 style="font-size: 18px;  line-height: 21px;  font-weight: 300;">
+     <p  style="  font-size: 30px;  font-weight: 300;  color: #e5e50b;  text-shadow: solid 1px #e5e50b;">
       Hallo .
      <p>
      my name is Dewa Surya ariesta, love to learn, make new friend and challenge. I already have experience 8 months tech industry where i work as Frontend engineer and ui/ux. every things happen to me is miracle, my friend's invite me on they project and tech me about tech, then Here i join
-     <span class="revou">
+     <span style="color:#cee427;display: inline">
      revou
      </span>
       to gain my knowledge.
@@ -136,4 +124,3 @@ h3{
 </div>
   </div>
 </div>
-halloo
