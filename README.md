@@ -15,50 +15,29 @@
 <h2 > " Brief About Me: Dewa 😎 </h2>
 <p align="center">
   <img width="300" hight="300"  src="./assets/img/Dewa-img-1.png" alt="hh">
-</p>
-    <table class='table-introduce'>
-    <tr>
-      <th>Name</th>
-      <th>Dewa Surya ariesta</th>
-    </tr>
-    <tr>
-      <td>Hoby</td>
-      <td>Watch anime or read manga</td>
-    </tr>
-      <tr>
-      <td>favorite food</td>
-      <td>every meat</td>
-    </tr>
-    <tr>
-      <td>Hight</td>
-      <td> 173 cm</td>
-    </tr>
-    <tr>
-      <td>Wight</td>
-      <td> 67kg</td>
-    </tr>
-    <tr>
-      <td>occupation</td>
-      <td> Freelancer Frontend engineer </td>
-    </tr>
 
-  </table>
-     <h2 > " QURAN, About : 'Make friends with others' </h2>
-      <h3 style="font-size: 18px;  line-height: 21px;  font-weight: 300;">
-      يٰٓأَيُّهَا النَّاسُ إِنَّا خَلَقْنٰكُمْ مِّنْ ذَكَرٍ وَأُنْثٰى وَجَعَلْنٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا   ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقٰىكُمْ   ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
-      </h3>
-      <h4>
-      "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sungguh, yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Sungguh, Allah Maha Mengetahui, Maha Teliti." (QS. Al-Hujurat: Ayat 13)
-      </h4>
-      <p>
-     <h3>
-      Hallo .
-     </h3>
-     my name is Dewa Surya ariesta, love to learn, make new friend and challenge. I already have experience 8 months tech industry where i work as Frontend engineer and ui/ux. every things happen to me is miracle, my friend's invite me on they project and tech me about tech, then Here i join
-    **revou**
-      to gain my knowledge.
-  </p>
-Item | Price | # In stock
----|---|---
-Juicy Apples | 1.99 | 739
-Bananas | 1.89 | 6
+| Name          | Dewa Surya Ariesta           |
+| ------------- | ---------------------------- |
+| Hoby          | Watch anime or read manga    |
+| Favorite food | every meat                   |
+| Hight         | 173 cm                       |
+| Wight         | 67 kg                        |
+| Occupation    | Freelancer Frontend engineer |
+
+> # Dewa Surya Ariesta - REVOU Student 😎
+>
+> ### " QURAN, About : 'Make friends with others'
+>
+> > يٰٓأَيُّهَا النَّاسُ إِنَّا خَلَقْنٰكُمْ مِّنْ ذَكَرٍ وَأُنْثٰى وَجَعَلْنٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا   ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقٰىكُمْ   ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+> >
+> > "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sungguh, yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Sungguh, Allah Maha Mengetahui, Maha Teliti." (QS. Al-Hujurat: Ayat 13)
+>
+> ## MY Story
+>
+> #### Hallo
+>
+> > ## my name is _Dewa Surya ariesta_, love to learn, make new friend and challenge. I already have experience 8 months tech industry where i work as Frontend engineer and ui/ux. every things happen to me is miracle, my friend's invite me on they project and tech me about tech, then Here i join **revou** to gain my knowledge.
+
+## Contact ME :
+
+### I'am Sory , i don't have any social media LOL 😁
