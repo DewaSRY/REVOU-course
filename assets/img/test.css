@@ -35,6 +35,7 @@ h3 {
   background-color: #000107;
   display: flex;
   justify-content: space-between;
+  border-radius: ;
 }
 .revou {
   display: inline-block;
