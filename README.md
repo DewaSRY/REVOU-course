@@ -20,7 +20,6 @@ title:introduce
 <p align="center">
   <img width="300" hight="300"  src="./assets/img/Dewa-img-1.png" alt="hh">
 </p>
-
     <table class='table-introduce'>
     <tr>
       <th>Name</th>
@@ -55,17 +54,15 @@ title:introduce
       <h4>
       "Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sungguh, yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa. Sungguh, Allah Maha Mengetahui, Maha Teliti." (QS. Al-Hujurat: Ayat 13)
       </h4>
-        <h3 style="font-size: 18px;line-height: 21px;font-weight: 300;">
-     <p  style="font-size: 30px;font-weight: 300;color: #e5e50b;text-shadow: solid 1px #e5e50b;">
+      <p>
+     <h3>
       Hallo .
-     <p>
+     </h3>
      my name is Dewa Surya ariesta, love to learn, make new friend and challenge. I already have experience 8 months tech industry where i work as Frontend engineer and ui/ux. every things happen to me is miracle, my friend's invite me on they project and tech me about tech, then Here i join
-     <span style="color:#cee427;display: inline">
-     revou
-     </span>
+    **revou**
       to gain my knowledge.
-  </h3>
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+  </p>
+Item | Price | # In stock
+---|---|---
+Juicy Apples | 1.99 | 739
+Bananas | 1.89 | 6
