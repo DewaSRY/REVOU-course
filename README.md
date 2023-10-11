@@ -1,7 +1,3 @@
----
-title:introduce
----
-
 # REVOU-course
 
 ## Day one : make read me about your self
